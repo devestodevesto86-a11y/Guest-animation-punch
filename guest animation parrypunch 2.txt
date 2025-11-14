@@ -1,0 +1,7 @@
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.ParryPunch = "rbxassetid://108807732150201"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Punch = "rbxassetid://86709774283672"
