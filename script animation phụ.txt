@@ -1,0 +1,15 @@
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Block = "rbxassetid://82605295530067"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Charge = "rbxassetid://73502073176819"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.ParryPunch = "rbxassetid://138040001965654"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Punch = "rbxassetid://119850211147676"
