@@ -1,0 +1,278 @@
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Verified, Bonafide, Plaidafied", P, "rbxassetid://101090158", "rbxassetid://101090196", Vector3.new(1, 1, 1), CFrame.new(0, -0.6000000238418579, 0.10000000149011612), "Head", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Eye_Glare_A_Left_Eye_White_04", P, "rbxassetid://84326796402953", "rbxassetid://98254798635974", Vector3.new(1, 1, 1), CFrame.new(0.10000000149011612, -0.20000000298023224, 0.5), "Head", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("RightGloveAccessory", P, "rbxassetid://137571564070728", "rbxassetid://105294469852522", Vector3.new(1, 1, 1), CFrame.new(0, 0.699999988079071, 0), "Right Arm", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("LeftGloveAccessory", P, "rbxassetid://140396599774008", "rbxassetid://109095631572021", Vector3.new(1, 1, 1), CFrame.new(0, 0.699999988079071, 0), "Left Arm", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("BandagesR", P, "rbxassetid://94373769167894", "rbxassetid://103123210996632", Vector3.new(1, 1, 1), CFrame.new(0, -0.30000001192092896, 0), "Right Arm", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Scarf Neck Bandana - Black", P, "rbxassetid://83449432566324", "rbxassetid://132653910682552", Vector3.new(1, 1, 1), CFrame.new(0, 0.8999999761581421, 0.10000000149011612), "Head", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Elite Suspender Waist Straps V3", P, "rbxassetid://18669327709", "rbxassetid://18669339400", Vector3.new(1, 1, 1), CFrame.new(0, 1.600000023841858, 0), "Torso", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("MeshPartAccessory", P, "rbxassetid://121601093687820", "rbxassetid://74877762919587", Vector3.new(1, 1, 1), CFrame.new(0, -0.20000000298023224, 0), "Head", CFrame.Angles(0, 0, 0))
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Shadowed_White", P, "rbxassetid://76388984624845", "rbxassetid://87648158158655", Vector3.new(1, 1, 1), CFrame.new(0.001476287841796875, 0.00003814697265625, 0.000614166259765625), "Head", CFrame.Angles(0, 0, 0))
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+local Shirt = Instance.new("Shirt", P)
+Shirt.ShirtTemplate = "http://www.roblox.com/asset/?id=11526718530"
+local Pants = Instance.new("Pants", P)
+Pants.PantsTemplate = "http://www.roblox.com/asset/?id=8425198346"
+
+local Player = game:GetService("Players").LocalPlayer.Character --is your player model
+
+Player.Shirt:Destroy() --deletes your head
+
+local Player = game:GetService("Players").LocalPlayer.Character --is your player model
+
+Player.Pants:Destroy() --deletes your head
+
+local Player = game:GetService("Players").LocalPlayer.Character --is your player model
+
+Player.CoolBoyHair:Destroy() --deletes your head
+
+local Player = game:GetService("Players").LocalPlayer.Character --is your player model
+
+Player.ExpressionHolder:Destroy() --deletes your head
+
+local function Accs(AccsName, char, Mesh, Texture, Scale, CF, Welded, Angle) 
+    local var_1 = Instance.new("Accessory", char) 
+    var_1.Name = AccsName
+    local var_2 = Instance.new("Part", var_1) 
+    var_2.Anchored = false
+    var_2.Massless = true
+    var_2.CanCollide = false
+    var_2.Size = Vector3.new(1, 1, 1) 
+    var_2.Name = "Handle"
+    local var_3 = Instance.new("SpecialMesh", var_2) 
+    var_3.Name = "Mesh"
+    var_3.MeshId = Mesh
+    var_3.TextureId = Texture
+    var_3.Scale = Scale
+    local var_4 = Instance.new("Weld", var_2) 
+    var_4.C0 = CF * Angle
+    var_4.Part0 = var_2
+    var_4.Part1 = char[Welded]
+end
+
+local P = game:GetService("Players").LocalPlayer.Character
+
+Accs("Ricardo, The Middle Big Brother >Right Chain ", P, "rbxassetid://116240822070517", "rbxassetid://123570963451698", Vector3.new(1, 1, 1), CFrame.new(0, 0.20000000298023224, 0), "Right Arm", CFrame.Angles(0, 0, 0))
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Block = "rbxassetid://82605295530067"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Charge = "rbxassetid://73502073176819"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.ParryPunch = "rbxassetid://108807732150251"
+
+local Guest1337Config = require(game:GetService("ReplicatedStorage").Assets.Survivors.Guest1337.Config)
+
+Guest1337Config.Animations.Punch = "rbxassetid://86709774283672"
